@@ -20,6 +20,29 @@
         "blob/fbf7bb32bc2e0938c45f2be93214513fc3e28c48.nq.gz",
         "blob/91f72fcdb9586de9c802aa2eb2f0426744f0f2dc.nq.gz",
         "blob/10662a2deaff6696e03d92e36f6372aba8ac6199.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/328d1ff3c5c231c29a9d997f5869ee2272a561db.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/328d1ff3c5c231c29a9d997f5869ee2272a561db.nq.gz",
+      "repolex": "aggregate/repolex/328d1ff3c5c231c29a9d997f5869ee2272a561db.nq.gz",
+      "dep": "dep/328d1ff3c5c231c29a9d997f5869ee2272a561db.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "qtoml",
+          "githubOrg": "alethiophile",
+          "githubRepo": "qtoml"
+        },
+        {
+          "packageName": "pytest",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest"
+        },
+        {
+          "packageName": "click",
+          "githubOrg": "pallets",
+          "githubRepo": "click"
+        }
       ]
     },
     {
