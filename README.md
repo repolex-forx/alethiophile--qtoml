@@ -39,14 +39,17 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 ├── aggregate
 │   ├── ast
 │   │   ├── 328d1ff3c5c231c29a9d997f5869ee2272a561db.nq.gz
+│   │   ├── a0ae43709d0f7890dba32ca2503e794af2fb31c7.nq.gz
 │   │   ├── a953edcfb93cbb613076122f8d90a33f448be8d6.nq.gz
 │   │   └── cb997e7d364b008fd12978ee4b30da1dd7a2c9be.nq.gz
 │   ├── lsp
 │   │   ├── 328d1ff3c5c231c29a9d997f5869ee2272a561db.nq.gz
+│   │   ├── a0ae43709d0f7890dba32ca2503e794af2fb31c7.nq.gz
 │   │   ├── a953edcfb93cbb613076122f8d90a33f448be8d6.nq.gz
 │   │   └── cb997e7d364b008fd12978ee4b30da1dd7a2c9be.nq.gz
 │   └── repolex
 │       ├── 328d1ff3c5c231c29a9d997f5869ee2272a561db.nq.gz
+│       ├── a0ae43709d0f7890dba32ca2503e794af2fb31c7.nq.gz
 │       ├── a953edcfb93cbb613076122f8d90a33f448be8d6.nq.gz
 │       └── cb997e7d364b008fd12978ee4b30da1dd7a2c9be.nq.gz
 ├── blob
@@ -67,10 +70,13 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── 936940730c95599b953dec24ea5d678585f2cfa4.nq.gz
 │   ├── 9f0231111dc3cc14a7e79d3c0ecd4496324fc5d3.nq.gz
 │   ├── a205cd3c8f4d1f09d8eac3a0fc2c755761d92be8.nq.gz
+│   ├── a7f5ad372e989701e50f5c46661ba4b1c25f92e8.nq.gz
 │   ├── ae83c5147cad2bb15794d23879b120f9acffae7a.nq.gz
 │   ├── c535d0eeaa0f21d74b36e2ecce4bdad2aa271ac1.nq.gz
 │   ├── c8cb9d68a5a9d635966eff37e4acfe7b2f16ac81.nq.gz
+│   ├── ccf25ef51e95761fe1cce59af481703356468c37.nq.gz
 │   ├── d36d6da9da01e068d5a5b18db726b27a3fe4fc96.nq.gz
+│   ├── d63f269bd9f3a181e8e941ba4960c12edeb494a6.nq.gz
 │   ├── deb756af737db33d2d7ae48022a4d657c72c8905.nq.gz
 │   ├── e4c23282d9f5d95dbbc6362ca027dd35b9fe77b8.nq.gz
 │   ├── f2136d548847e34e0206526fbe8dce25618e7547.nq.gz
@@ -83,9 +89,11 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── commit.nq.gz
 ├── dep
 │   ├── 328d1ff3c5c231c29a9d997f5869ee2272a561db.nq.gz
+│   ├── a0ae43709d0f7890dba32ca2503e794af2fb31c7.nq.gz
 │   ├── a953edcfb93cbb613076122f8d90a33f448be8d6.nq.gz
 │   └── cb997e7d364b008fd12978ee4b30da1dd7a2c9be.nq.gz
 ├── filetree
+│   ├── 1b33c9a3e2180619e48c5adabe96797e7af78590.nq.gz
 │   ├── 328d1ff3c5c231c29a9d997f5869ee2272a561db.nq.gz
 │   ├── a0ae43709d0f7890dba32ca2503e794af2fb31c7.nq.gz
 │   ├── a953edcfb93cbb613076122f8d90a33f448be8d6.nq.gz
@@ -97,7 +105,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-13 directories, 48 files
+13 directories, 56 files
 ```
 
 | Directory | What it contains |
