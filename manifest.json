@@ -590,24 +590,32 @@
       "dep": "dep/f249ee5590719bc00b054ac2cb93f9295d073141.nq.gz",
       "dependencies": [
         {
-          "packageName": "qtoml",
-          "githubOrg": "alethiophile",
-          "githubRepo": "qtoml"
+          "packageName": "hypothesis",
+          "packageVersion": "6.99.9",
+          "githubOrg": "HypothesisWorks",
+          "githubRepo": "hypothesis",
+          "githubCommit": "HEAD"
         },
         {
-          "packageName": "hypothesis",
-          "githubOrg": "HypothesisWorks",
-          "githubRepo": "hypothesis"
+          "packageName": "qtoml",
+          "packageVersion": "0.3.1",
+          "githubOrg": "alethiophile",
+          "githubRepo": "qtoml",
+          "githubCommit": "ed150abae170d7faa5bbf321d8e0b23129fcfe19"
         },
         {
           "packageName": "pytest",
+          "packageVersion": "9.0.2",
           "githubOrg": "pytest-dev",
-          "githubRepo": "pytest"
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
         },
         {
           "packageName": "click",
+          "packageVersion": "8.3.1",
           "githubOrg": "pallets",
-          "githubRepo": "click"
+          "githubRepo": "click",
+          "githubCommit": "1d038f270701498433cb432f54db89f95f07a845"
         }
       ]
     },
