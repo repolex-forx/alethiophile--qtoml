@@ -242,19 +242,25 @@
       "dep": "dep/a953edcfb93cbb613076122f8d90a33f448be8d6.nq.gz",
       "dependencies": [
         {
+          "packageName": "pytest",
+          "packageVersion": "9.0.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+        },
+        {
           "packageName": "qtoml",
+          "packageVersion": "0.3.1",
           "githubOrg": "alethiophile",
-          "githubRepo": "qtoml"
+          "githubRepo": "qtoml",
+          "githubCommit": "ed150abae170d7faa5bbf321d8e0b23129fcfe19"
         },
         {
           "packageName": "click",
+          "packageVersion": "8.3.1",
           "githubOrg": "pallets",
-          "githubRepo": "click"
-        },
-        {
-          "packageName": "pytest",
-          "githubOrg": "pytest-dev",
-          "githubRepo": "pytest"
+          "githubRepo": "click",
+          "githubCommit": "1d038f270701498433cb432f54db89f95f07a845"
         }
       ]
     },
